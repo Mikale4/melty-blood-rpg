@@ -1,0 +1,1226 @@
+{
+ "shiki": {
+  "Crescent": {
+   "1": {
+    "name": "Trump Card I (Death Slice)",
+    "seq": 105
+   },
+   "2": {
+    "name": "Serious Stance (Flash Run - Harvest Moon)",
+    "seq": 234
+   },
+   "3": {
+    "name": "17 Dissection",
+    "seq": 199
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Trump Card II (Low Scoop)",
+    "seq": 110
+   },
+   "2": {
+    "name": "Trump Card III (Flash Sheath - Eight Flower Mirror)",
+    "seq": 405
+   },
+   "3": {
+    "name": "Mystic Eyes of Death Perception",
+    "seq": 199
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Trump Card I (Death Slice)",
+    "seq": 105
+   },
+   "2": {
+    "name": "A Kick Even I Don't Understand (Flash Run - Six Fish)",
+    "seq": 140
+   },
+   "3": {
+    "name": "Mystic Eyes of Death Perception",
+    "seq": 199
+   }
+  }
+ },
+ "nanaya": {
+  "Crescent": {
+   "1": {
+    "name": "Flash Sheath - Eightfold Thrust",
+    "seq": 160
+   },
+   "2": {
+    "name": "Flash Run - Moon in the Water",
+    "seq": 114
+   },
+   "3": {
+    "name": "Extreme Death - Seven Nights",
+    "seq": 210
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Flash Sheath - Four Ways",
+    "seq": 470
+   },
+   "2": {
+    "name": "Flash Run - Six Rabbits",
+    "seq": 118
+   },
+   "3": {
+    "name": "Flash Sheath - Monk Imprisoned By Doubts",
+    "seq": 198
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Flash Sheath - Eightfold Thrust",
+    "seq": 413
+   },
+   "2": {
+    "name": "Flash Run - Six Rabbits",
+    "seq": 118
+   },
+   "3": {
+    "name": "Flash Sheath - Monk Imprisoned By Doubts",
+    "seq": 198
+   }
+  }
+ },
+ "arcueid": {
+  "Crescent": {
+   "1": {
+    "name": "You're in the way!",
+    "seq": 180
+   },
+   "2": {
+    "name": "Ready... Go!",
+    "seq": 122
+   },
+   "3": {
+    "name": "Melty Blood",
+    "seq": 199
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "What are you doing...!",
+    "seq": 175
+   },
+   "2": {
+    "name": "Over here, over here!",
+    "seq": 155
+   },
+   "3": {
+    "name": "From Dreams to Reality (Marble Phantasm)",
+    "seq": 199
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "You're in the way!",
+    "seq": 180
+   },
+   "2": {
+    "name": "Stay down!",
+    "seq": 122
+   },
+   "3": {
+    "name": "From Dreams to Reality (Marble Phantasm)",
+    "seq": 199
+   }
+  }
+ },
+ "red-arcueid": {
+  "Crescent": {
+   "1": {
+    "name": "Alte Schule",
+    "seq": 112
+   },
+   "2": {
+    "name": "Vorzeit echte Schule",
+    "seq": 505
+   },
+   "3": {
+    "name": "Pluto die Schwester",
+    "seq": 223
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Heisses Wasser",
+    "seq": 545
+   },
+   "2": {
+    "name": "Weisse Katze",
+    "seq": 155
+   },
+   "3": {
+    "name": "Pluto die Schwester",
+    "seq": 223
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Wackenroder",
+    "seq": 563
+   },
+   "2": {
+    "name": "Blitz Katze",
+    "seq": 155
+   },
+   "3": {
+    "name": "Pluto die Schwester",
+    "seq": 223
+   }
+  }
+ },
+ "ciel": {
+  "Crescent": {
+   "1": {
+    "name": "Black Key Throw",
+    "seq": 415
+   },
+   "2": {
+    "name": "Black Key - Long Verse",
+    "seq": 122
+   },
+   "3": {
+    "name": "Seventh Holy Scripture - Redemption From Original Sin",
+    "seq": 197
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Flipper - Low",
+    "seq": 470
+   },
+   "2": {
+    "name": "Flipper - High",
+    "seq": 91
+   },
+   "3": {
+    "name": "Seventh Holy Scripture",
+    "seq": 197
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Halo Acolyte",
+    "seq": 91
+   },
+   "2": {
+    "name": "Blade Sinker",
+    "seq": 225
+   },
+   "3": {
+    "name": "Seventh Holy Scripture",
+    "seq": 197
+   }
+  }
+ },
+ "powered-ciel": {
+  "Crescent": {},
+  "Half": {
+   "1": {
+    "name": "Rapid Stake",
+    "seq": 110
+   },
+   "2": {
+    "name": "Shaft Drive",
+    "seq": 105
+   },
+   "3": {
+    "name": "Seventh Holy Scripture - Impeachment of Original Sin",
+    "seq": 200
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Rapid Stake",
+    "seq": 85
+   },
+   "2": {
+    "name": "Shaft Drive",
+    "seq": 105
+   },
+   "3": {
+    "name": "Seventh Holy Scripture - Impeachment of Original Sin",
+    "seq": 200
+   }
+  }
+ },
+ "akiha": {
+  "Crescent": {
+   "1": {
+    "name": "Felling Birds",
+    "seq": 114
+   },
+   "2": {
+    "name": "Burning Beasts",
+    "seq": 160
+   },
+   "3": {
+    "name": "Red Mistress - Locks of Hair",
+    "seq": 219
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Felling Birds",
+    "seq": 114
+   },
+   "2": {
+    "name": "Brilliant Impetus - Autumn Leaves",
+    "seq": 205
+   },
+   "3": {
+    "name": "Red Mistress - Locks of Hair",
+    "seq": 219
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Plucking Birds",
+    "seq": 449
+   },
+   "2": {
+    "name": "Brilliant Impetus - Autumn leaves",
+    "seq": 205
+   },
+   "3": {
+    "name": "Red Mistress - Locks of Hair",
+    "seq": 219
+   }
+  }
+ },
+ "red-akiha": {
+  "Crescent": {
+   "1": {
+    "name": "Felling Emptily Fluttering Birds",
+    "seq": 116
+   },
+   "2": {
+    "name": "Burning Bounding Beasts",
+    "seq": 162
+   },
+   "3": {
+    "name": "Red Mistress - Ubiquitous",
+    "seq": 540
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Brilliant Impetus - Scarlet Spots",
+    "seq": 505
+   },
+   "2": {
+    "name": "Brilliant Impetus - Autumn Leaves",
+    "seq": 206
+   },
+   "3": {
+    "name": "Red Mistress - Ubiquitous",
+    "seq": 540
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Plucking Birds",
+    "seq": 449
+   },
+   "2": {
+    "name": "Brilliant Impetus - Autumn Leaves",
+    "seq": 205
+   },
+   "3": {
+    "name": "Red Mistress - Ubiquitous",
+    "seq": 540
+   }
+  }
+ },
+ "hisui": {
+  "Crescent": {
+   "1": {
+    "name": "This ladle is solid.",
+    "seq": 126
+   },
+   "2": {
+    "name": "Please excuse me.",
+    "seq": 160
+   },
+   "3": {
+    "name": "Dark Jade Fist",
+    "seq": 199
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "This ladle is solid.",
+    "seq": 370
+   },
+   "2": {
+    "name": "It is dangerous on the ceiling.",
+    "seq": 401
+   },
+   "3": {
+    "name": "Dark Jade Fist",
+    "seq": 199
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "That is dangerous.",
+    "seq": 109
+   },
+   "2": {
+    "name": "This ladle is solid.",
+    "seq": 100
+   },
+   "3": {
+    "name": "Dark Jade Fist",
+    "seq": 199
+   }
+  }
+ },
+ "kohaku": {
+  "Crescent": {
+   "1": {
+    "name": "Battou - Hidden Sharp Sword",
+    "seq": 170
+   },
+   "2": {
+    "name": "This is a victim of modern medicine.",
+    "seq": 459
+   },
+   "3": {
+    "name": "Low Blow Amber Kick",
+    "seq": 200
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Battou - Air Strike",
+    "seq": 470
+   },
+   "2": {
+    "name": "Amber Colosseum - Uppercut",
+    "seq": 480
+   },
+   "3": {
+    "name": "Low Blow Amber Kick",
+    "seq": 200
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Battou - Hidden Sharp Sword",
+    "seq": 170
+   },
+   "2": {
+    "name": "It's a cleanup!",
+    "seq": 450
+   },
+   "3": {
+    "name": "Low Blow Amber Kick",
+    "seq": 200
+   }
+  }
+ },
+ "mech-hisui": {
+  "Crescent": {},
+  "Half": {
+   "1": {
+    "name": "Sweep (Assault)",
+    "seq": 488
+   },
+   "2": {
+    "name": "Fingerbritt",
+    "seq": 484
+   },
+   "3": {
+    "name": "L.S.O. (Superhuman Sister Alliance)",
+    "seq": 200
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Barrel Arm - Britt",
+    "seq": 554
+   },
+   "2": {
+    "name": "Long Range - Electromagnetic Shock",
+    "seq": 500
+   },
+   "3": {
+    "name": "L.S.O. (Superhuman Sister Alliance)",
+    "seq": 200
+   }
+  }
+ },
+ "satsuki": {
+  "Crescent": {
+   "1": {
+    "name": "Sacchin Arm: Reaching for the Impossible Dream",
+    "seq": 136
+   },
+   "2": {
+    "name": "Here I go～!",
+    "seq": 475
+   },
+   "3": {
+    "name": "Reality Marble - Depletion Garden",
+    "seq": 119
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Sacchin Arm: Aerial Dash",
+    "seq": 508
+   },
+   "2": {
+    "name": "Don't come near me!",
+    "seq": 380
+   },
+   "3": {
+    "name": "Now I'm mad...!",
+    "seq": 150
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Sacchin Arm: Aerial Dash",
+    "seq": 515
+   },
+   "2": {
+    "name": "Sacchin Arm: Chasing the Uncatchable Dream",
+    "seq": 140
+   },
+   "3": {
+    "name": "Now I'm mad...!",
+    "seq": 150
+   }
+  }
+ },
+ "sion": {
+  "Crescent": {
+   "1": {
+    "name": "Warning Shot",
+    "seq": 100
+   },
+   "2": {
+    "name": "Etherlite Grand",
+    "seq": 115
+   },
+   "3": {
+    "name": "Barrel Replica - Obelisk",
+    "seq": 130
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Hollow Point",
+    "seq": 411
+   },
+   "2": {
+    "name": "Etherlite Air",
+    "seq": 110
+   },
+   "3": {
+    "name": "Barrel Replica",
+    "seq": 145
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Sigma Raiser",
+    "seq": 460
+   },
+   "2": {
+    "name": "Etherlite Air",
+    "seq": 110
+   },
+   "3": {
+    "name": "Barrel Replica",
+    "seq": 145
+   }
+  }
+ },
+ "sion-tatari": {
+  "Crescent": {
+   "1": {
+    "name": "Terror News (Lie)",
+    "seq": 215
+   },
+   "2": {
+    "name": "Replicant Conductor (Osiris)",
+    "seq": 165
+   },
+   "3": {
+    "name": "Cruel Blood",
+    "seq": 204
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Busy Bug",
+    "seq": 410
+   },
+   "2": {
+    "name": "Terror News (Malice)",
+    "seq": 125
+   },
+   "3": {
+    "name": "Cruel Blood",
+    "seq": 204
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Terror News (Lie)",
+    "seq": 215
+   },
+   "2": {
+    "name": "Terror News (Malice)",
+    "seq": 125
+   },
+   "3": {
+    "name": "Cruel Blood",
+    "seq": 204
+   }
+  }
+ },
+ "riesbyfe": {
+  "Crescent": {
+   "1": {
+    "name": "Wrist Pizzicato",
+    "seq": 125
+   },
+   "2": {
+    "name": "Breath Cantino",
+    "seq": 425
+   },
+   "3": {
+    "name": "Official Apocrypha - Original Sin Embrace",
+    "seq": 499
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Wrist Staccato",
+    "seq": 112
+   },
+   "2": {
+    "name": "Pile Arcato",
+    "seq": 175
+   },
+   "3": {
+    "name": "Official Apocrypha",
+    "seq": 399
+   }
+  },
+  "Full": {}
+ },
+ "aoko": {
+  "Crescent": {
+   "1": {
+    "name": "Browning Starmine",
+    "seq": 108
+   },
+   "2": {
+    "name": "Floating Starmine",
+    "seq": 72
+   },
+   "3": {
+    "name": "Retroflow - Genesis Light Year",
+    "seq": 156
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "AC / Magic Draw",
+    "seq": 138
+   },
+   "2": {
+    "name": "Blazing Starmine",
+    "seq": 147
+   },
+   "3": {
+    "name": "Severe Break",
+    "seq": 115
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "DC / Magic Draw",
+    "seq": 184
+   },
+   "2": {
+    "name": "Browning Starmine",
+    "seq": 108
+   },
+   "3": {
+    "name": "Severe Break",
+    "seq": 115
+   }
+  }
+ },
+ "chaos": {
+  "Crescent": {
+   "1": {
+    "name": "Chaos Release - Black Wings",
+    "seq": 120
+   },
+   "2": {
+    "name": "Chaos Release - Horned Beasts",
+    "seq": 105
+   },
+   "3": {
+    "name": "Number of The Beast",
+    "seq": 200
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Chaos Release - Black Wings",
+    "seq": 120
+   },
+   "2": {
+    "name": "Chaos Exposure - Neuropteran Form",
+    "seq": 480
+   },
+   "3": {
+    "name": "Armament 999",
+    "seq": 160
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Chaos Release - Black Wings",
+    "seq": 120
+   },
+   "2": {
+    "name": "Chaos Discharge - Reptilian",
+    "seq": 130
+   },
+   "3": {
+    "name": "Armament 999",
+    "seq": 160
+   }
+  }
+ },
+ "roa": {
+  "Crescent": {
+   "1": {
+    "name": "Thunder Needle",
+    "seq": 400
+   },
+   "2": {
+    "name": "Numerology - Nest of Snakes",
+    "seq": 580
+   },
+   "3": {
+    "name": "Heavenly Crashing Thunder",
+    "seq": 149
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Funeral Fire Grab",
+    "seq": 477
+   },
+   "2": {
+    "name": "Crushing Rising Thunder",
+    "seq": 490
+   },
+   "3": {
+    "name": "Heavenly Crashing Thunder",
+    "seq": 149
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Thunder Flash",
+    "seq": 529
+   },
+   "2": {
+    "name": "Rising Thunder",
+    "seq": 490
+   },
+   "3": {
+    "name": "Heavenly Crashing Thunder",
+    "seq": 149
+   }
+  }
+ },
+ "wallachia": {
+  "Crescent": {
+   "1": {
+    "name": "Bad News (Lie)",
+    "seq": 180
+   },
+   "2": {
+    "name": "Creature Channel (Apotheosis)",
+    "seq": 193
+   },
+   "3": {
+    "name": "Night on the Blood Liar (Unzanity)",
+    "seq": 149
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Virus Egg (Demagogue)",
+    "seq": 425
+   },
+   "2": {
+    "name": "Creature Channel (Conflict)",
+    "seq": 410
+   },
+   "3": {
+    "name": "Night on the Blood Liar (Unzanity)",
+    "seq": 149
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Bad News (Lie)",
+    "seq": 180
+   },
+   "2": {
+    "name": "Bad News (Malice)",
+    "seq": 135
+   },
+   "3": {
+    "name": "Night on the Blood Liar (Unzanity)",
+    "seq": 149
+   }
+  }
+ },
+ "len": {
+  "Crescent": {
+   "1": {
+    "name": "Fleur Freeze",
+    "seq": 115
+   },
+   "2": {
+    "name": "Powder Snow",
+    "seq": 400
+   },
+   "3": {
+    "name": "Cream Puff Dream REM",
+    "seq": 182
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "London Rondo",
+    "seq": 110
+   },
+   "2": {
+    "name": "Flame Snow",
+    "seq": 377
+   },
+   "3": {
+    "name": "Ephemeral Transience",
+    "seq": 149
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Fleur Freeze",
+    "seq": 115
+   },
+   "2": {
+    "name": "London Rondo",
+    "seq": 110
+   },
+   "3": {
+    "name": "Ephemeral Transience",
+    "seq": 149
+   }
+  }
+ },
+ "white-len": {
+  "Crescent": {
+   "1": {
+    "name": "Fleur Freeze Couleur",
+    "seq": 115
+   },
+   "2": {
+    "name": "Nutcracker",
+    "seq": 182
+   },
+   "3": {
+    "name": "Endless Expanses",
+    "seq": 205
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Snow Pillar",
+    "seq": 390
+   },
+   "2": {
+    "name": "Waltz Oise",
+    "seq": 480
+   },
+   "3": {
+    "name": "Ephemeral Transience",
+    "seq": 149
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Fleur Freeze Couleur",
+    "seq": 115
+   },
+   "2": {
+    "name": "Swan Lake",
+    "seq": 195
+   },
+   "3": {
+    "name": "Ephemeral Transience",
+    "seq": 149
+   }
+  }
+ },
+ "miyako": {
+  "Crescent": {
+   "1": {
+    "name": "Center Elbow Strike",
+    "seq": 150
+   },
+   "2": {
+    "name": "Quake Stomp",
+    "seq": 160
+   },
+   "3": {
+    "name": "Forbidden Technique Final Thunder - Smashing Fist",
+    "seq": 198
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Five Form Fist",
+    "seq": 407
+   },
+   "2": {
+    "name": "Double Kick",
+    "seq": 450
+   },
+   "3": {
+    "name": "Ultimate Final Technique",
+    "seq": 199
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Arrow Fist",
+    "seq": 185
+   },
+   "2": {
+    "name": "Thousand Year Smash",
+    "seq": 411
+   },
+   "3": {
+    "name": "Ultimate Final Technique",
+    "seq": 199
+   }
+  }
+ },
+ "kouma": {
+  "Crescent": {},
+  "Half": {
+   "1": {
+    "name": "Triple Samadhi Prajna",
+    "seq": 125
+   },
+   "2": {
+    "name": "Plated God",
+    "seq": 102
+   },
+   "3": {
+    "name": "Unicorn - Jambu in Flames",
+    "seq": 149
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Cremation",
+    "seq": 110
+   },
+   "2": {
+    "name": "Unicorn - Indra's Net",
+    "seq": 112
+   },
+   "3": {
+    "name": "Unicorn - Jambu in Flames",
+    "seq": 149
+   }
+  }
+ },
+ "neco-arc": {
+  "Crescent": {
+   "1": {
+    "name": "True Ancestor Beam",
+    "seq": 90
+   },
+   "2": {
+    "name": "Neco Packet 2008",
+    "seq": 410
+   },
+   "3": {
+    "name": "Angolmois Hammer",
+    "seq": 159
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Air-to-Ground Opuba",
+    "seq": 400
+   },
+   "2": {
+    "name": "Abaddon Flare",
+    "seq": 150
+   },
+   "3": {
+    "name": "Dawn of the Cat",
+    "seq": 199
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "True Ancestor Beam",
+    "seq": 90
+   },
+   "2": {
+    "name": "I Want to Go to Crocodile Country",
+    "seq": 109
+   },
+   "3": {
+    "name": "Dawn of the Cat",
+    "seq": 199
+   }
+  }
+ },
+ "neco-chaos": {
+  "Crescent": {
+   "1": {
+    "name": "Chaos Beam",
+    "seq": 90
+   },
+   "2": {
+    "name": "Undulating My Deer",
+    "seq": 450
+   },
+   "3": {
+    "name": "Dusk of the Cat",
+    "seq": 227
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Bird - Full-Moon Version",
+    "seq": 480
+   },
+   "2": {
+    "name": "Chaos Beam",
+    "seq": 570
+   },
+   "3": {
+    "name": "Dusk of the Cat",
+    "seq": 227
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Bird - Half-Moon Version",
+    "seq": 400
+   },
+   "2": {
+    "name": "EM Wave Ultimate Attack - Necoesthetics",
+    "seq": 172
+   },
+   "3": {
+    "name": "Dusk of the Cat",
+    "seq": 227
+   }
+  }
+ },
+ "ryougi": {
+  "Crescent": {
+   "1": {
+    "name": "Double Belfry",
+    "seq": 371
+   },
+   "2": {
+    "name": "Selfless Knowledge - Empty Heart, Possess Truth",
+    "seq": 705
+   },
+   "3": {
+    "name": "Pure Knowledge - Empty Boundaries",
+    "seq": 624
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Hidden Dagger",
+    "seq": 524
+   },
+   "2": {
+    "name": "Ying Yang Mother-of-Pearl",
+    "seq": 593
+   },
+   "3": {
+    "name": "Mystic Eyes of Death Perception - Five Scenic Collapse",
+    "seq": 645
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Double Belfry - Row of Beads",
+    "seq": 397
+   },
+   "2": {
+    "name": "Double Belfry",
+    "seq": 371
+   },
+   "3": {
+    "name": "Mystic Eyes of Death Perception - Five Scenic Collapse",
+    "seq": 645
+   }
+  }
+ },
+ "archetype": {
+  "Crescent": {
+   "1": {
+    "name": "Bird",
+    "seq": 230
+   },
+   "2": {
+    "name": "Big Bird",
+    "seq": 232
+   },
+   "3": {
+    "name": "End",
+    "seq": 330
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Meteor",
+    "seq": 142
+   },
+   "2": {
+    "name": "Sigh",
+    "seq": 160
+   },
+   "3": {
+    "name": "Memory",
+    "seq": 299
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Big Wind",
+    "seq": 152
+   },
+   "2": {
+    "name": "Take this!",
+    "seq": 181
+   },
+   "3": {
+    "name": "Memory",
+    "seq": 299
+   }
+  }
+ },
+ "seifuku-akiha": {
+  "Crescent": {
+   "1": {
+    "name": "Whirl-Slicing Birds",
+    "seq": 310
+   },
+   "2": {
+    "name": "Conquering Beasts",
+    "seq": 180
+   },
+   "3": {
+    "name": "Red Mistress - Locks of Hair",
+    "seq": 370
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Brilliant Impetus - Phosphorous Wheel",
+    "seq": 440
+   },
+   "2": {
+    "name": "Breaking Beasts",
+    "seq": 220
+   },
+   "3": {
+    "name": "Red Mistress - Locks of Hair",
+    "seq": 370
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Whirl-Scattering Birds",
+    "seq": 470
+   },
+   "2": {
+    "name": "Scorching the Moon",
+    "seq": 360
+   },
+   "3": {
+    "name": "Red Mistress - Locks of Hair",
+    "seq": 370
+   }
+  }
+ },
+ "kohaku-mech": {
+  "Crescent": {
+   "1": {
+    "name": "Battou - Hidden Sharp Sword",
+    "seq": 170
+   },
+   "2": {
+    "name": "EM Net Wire Type C",
+    "seq": 620
+   },
+   "3": {
+    "name": "Low Blow Amber Kick",
+    "seq": 200
+   }
+  },
+  "Half": {
+   "1": {
+    "name": "Battou - Air Strike",
+    "seq": 470
+   },
+   "2": {
+    "name": "Fingerbritt",
+    "seq": 620
+   },
+   "3": {
+    "name": "Low Blow Amber Overthrow",
+    "seq": 200
+   }
+  },
+  "Full": {
+   "1": {
+    "name": "Long Range - Electromagnetic Shock",
+    "seq": 620
+   },
+   "2": {
+    "name": "Multi-Weapon Service",
+    "seq": 685
+   },
+   "3": {
+    "name": "Low Blow Amber Kick",
+    "seq": 200
+   }
+  }
+ }
+}

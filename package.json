@@ -1,0 +1,18 @@
+{
+  "name": "melty-blood-rpg",
+  "private": true,
+  "description": "Melty Blood RPG: Melty Blood as a phone-first, turn-based squad RPG with MBAACC sprites, built as a single HTML file.",
+  "scripts": {
+    "build": "sh src/build.sh",
+    "sprites": "python tools/extract.py && python tools/art.py",
+    "skills": "python tools/moves.py",
+    "test": "node tests/phone.js",
+    "test:battle": "node tests/battle.js",
+    "test:figures": "node tests/figures.js",
+    "test:balance": "node tests/sim.js",
+    "serve": "python3 -m http.server 8000"
+  },
+  "devDependencies": {
+    "playwright": "1.56.1"
+  }
+}

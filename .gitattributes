@@ -1,0 +1,5 @@
+# keep LF everywhere (build.sh breaks with CRLF); media stays binary
+* text=auto eol=lf
+*.mp3 binary
+*.webp binary
+*.png binary
