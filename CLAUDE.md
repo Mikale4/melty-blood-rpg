@@ -6,6 +6,12 @@ It was split out of the `C:\Games\Arknights Tactics` repo on 2026-10-05 and shar
 The old `melty-blood/` folder there was deleted; its history (up to commit 4e68011, branch `claude/swgoh-mobile-game-html-ajhk0t`) is still in that repo.
 Game details, the terminology glossary and the test commands are in `README.md`.
 
+## Publishing
+GitHub repo `Mikale4/melty-blood-rpg` (public), served by GitHub Pages from `main` at https://mikale4.github.io/melty-blood-rpg/
+(`index.html` forwards to the game; `.nojekyll` keeps Pages from processing files). To update the live game: rebuild, commit, push.
+There is no global git identity on this PC: commit with `git -c user.name=Mikale4 -c user.email=191707970+Mikale4@users.noreply.github.com`.
+`.gitattributes` pins LF (Windows' autocrlf would break `build.sh`). Pages is case-sensitive, so audio names must match exactly.
+
 ## Never edit `Melty Blood RPG.html` directly
 It's a build output. Edit the parts in `src/` and rebuild:
 

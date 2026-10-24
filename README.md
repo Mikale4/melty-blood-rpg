@@ -4,7 +4,8 @@ A phone-first, turn-based RPG take on Melty Blood, built on the same engine as A
 and Galactic Heroes. The cast and the Tatari incident from the fighting game become a squad RPG:
 story chapters on stage maps, side-view battles with the fighting game's own sprites and moves, a gacha, gear and battle modes.
 
-Play: open `Melty Blood RPG.html` (one self-contained file). Progress saves in the browser.
+Play online at **https://mikale4.github.io/melty-blood-rpg/** (GitHub Pages, works on phones), or open `Melty Blood RPG.html`
+locally with the `audio/` folder beside it. Progress saves in the browser.
 
 ## What's in it
 
